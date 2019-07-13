@@ -9,7 +9,7 @@
 baseurl = "https://cryptolocker.github.io/"
 
 # Title of your site
-title = "GOKUL REDDY"
+title = "SHIVANI REDDY"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,20 +51,20 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Gokul Reddy"
-  role = "Computer Science Graduate"
+  name = "SHIVANI REDDY"
+  role = "Software Engineering Graduate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Southern California", url = "" } ]
+  organizations = [ { name = "San Jose State University", url = "http://www.sjsu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "gokul.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "gokul.reddy28@gmail.com"
-  address = "1173 W 29 Street, Unit 3, Los Angeles, California - 90007, USA"
-  phone = "213 357 6746"
+  email = "singireddyshivanireddy@gmail.com"
+  address = "7754 The Alameda, #2315, San Jose, California"
+  phone = "408 831 8456"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -243,12 +243,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:arpitjain1821@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:singireddyshivanireddy@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
-    link = "https://www.linkedin.com/in/m-gokul-reddy/"
+    link = "https://www.linkedin.com/in/shivanireddysingireddy/"
 
   [[params.social]]
     icon = "medium"
@@ -258,7 +258,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/cryptolocker"
+    link = "https://github.com/Shivanireddy25"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
