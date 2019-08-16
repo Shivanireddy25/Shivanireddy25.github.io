@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://cryptolocker.github.io/"
+baseurl = "https://Shivanireddy25.github.io/"
 
 # Title of your site
 title = "SHIVANI REDDY"
@@ -253,7 +253,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "medium"
     icon_pack = "fab"
-    link = "https://medium.com/cryptolocker"
+    link = "https://medium.com/Shivanireddy25"
 
   [[params.social]]
     icon = "github"
